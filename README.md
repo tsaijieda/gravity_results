@@ -20,7 +20,7 @@ The choice of parameters is as follow
 
 ### Relation of $\lambda^2/8\pi G$ over $1/\mu$
 
-This part is to investigate the relation of $\lambda^2/8\pi G$ over $1/\mu$. The result is in the [link_3](./mu_dependence/mu_dependece.txt), the main code is in the [link_4](./mu_dependence/mu_dependence.m).
+This part is to investigate the relation of $\lambda^2/8\pi G$ over $1/\mu$. The result is in the [link_3](./mu_dependence/mu_dependence.txt), the main code is in the [link_4](./mu_dependence/mu_dependence.m).
 
 | property | parameter |
 | --- | --- |
