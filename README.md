@@ -12,7 +12,7 @@ The choice of parameters is as follow
 | --- | --- |
 | Dimension | 10 |
 | gap state | single spin-2 |
-| functionals | $\{p^n C_{2,\text{improved}},n < 61/2\} \bigcup \{p^n X_{4,\text{improved}},n < 5\} \bigcup \{p^n X_{6,\text{improved}},n < 3\}$   |
+| functionals | $\{p^n C_{2,\text{improved}},n \leq 61/2\} \bigcup \{p^n X_{4,\text{improved}},n \leq 5\} \bigcup \{p^n X_{6,\text{improved}},n \leq 3\}$   |
 | $J_{\text{max}}$ | 40 |
 | $\delta_x$ | 1/100 |
 | $\epsilon_b$ | 1/128 |
@@ -20,13 +20,13 @@ The choice of parameters is as follow
 
 ### Relation of $\lambda^2/8\pi G$ over $1/\mu$
 
-This part is to investigate the relation of $\lambda^2/8\pi G$ over $1/\mu$. The result is in the [link_3](./mu_dependence/mu_dependence.txt), the main code is in the [link_4](./mu_dependence/mu_dependence.m).
+This part is to investigate the relation of $\lambda^2/8\pi G$ over $1/\mu$. First result with functional order $\text{num}$ up to 41/2 is in the [link_3](./mu_dependence/mu_41.txt). Second result with $\text{num}$ up to 61/2 is in the [link_4](./mu_dependence/mu_61.txt). The main code is in the [link_5](./mu_dependence/mu_dependence.m).
 
 | property | parameter |
 | --- | --- |
 | Dimension | 10 |
 | gap state | single spin-2 |
-| functionals | $\{p^n C_{2,\text{improved}},n < 61/2\} \bigcup \{p^n X_{4,\text{improved}},n < 5\} \bigcup \{p^n X_{6,\text{improved}},n < 3\}$   |
+| functionals | $\{p^n C_{2,\text{improved}},n \leq \text{num}\} \bigcup \{p^n X_{4,\text{improved}},n \leq 5\} \bigcup \{p^n X_{6,\text{improved}},n \leq 3\}$   |
 | $J_{\text{max}}$ | 40 |
 | $\delta_x$ | 1/100 |
 | $\epsilon_b$ | 1/32 |
