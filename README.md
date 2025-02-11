@@ -13,7 +13,7 @@ $$\frac{8\pi G}{-u} + 2g_2 - g_3 u - \lambda_1^2 C_{2, u}^{\text{improved}}[1, J
 
 Where the sum here is from $m^2 > \mu$. Then we could integrate the both side against $f(p)$ at $ u = -p^2$ and follow the similar way in Simons paper,
 
-$$\text{minimize} \int_{0}^{1} dp f(p) \Biggl(\frac{8\pi G}{p^2} + 2g_2 + g_3 p^2\Biggr)\hspace{0.5 cm} \text{s.t.} \int_{0}^{1} dp f(p) C_{2, -p^2}^{\text{improved}}[1, J_\text{gap}]  = -1$$
+$$\text{minimize} \int_{0}^{\mu} dp f(p) \Biggl(\frac{8\pi G}{p^2} + 2g_2 + g_3 p^2\Biggr)\hspace{0.5 cm} \text{s.t.} \int_{0}^{\mu} dp f(p) C_{2, -p^2}^{\text{improved}}[1, J_\text{gap}]  = -1$$
 
 ### Space of $g_2$ and $g_3$ under different $\mu$
 
