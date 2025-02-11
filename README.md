@@ -47,7 +47,7 @@ This part is to investigate the relation of $\lambda^2/8\pi G$ over $1/\mu$. Fir
 
 ### Bounding $\lambda^2/g_4$ under fixed $g_2, g_3, g_5, g_6$
 
-In this section, we try to bound $\lambda^2/g_4$ since $\lambda^2/8\pi G$ is unbounded. First, we try to fix $g_2, g_3, g_5, g_6 = 0$, and we got the lower bound for $g_4$ is 0. Next, we could bound $\lambda^2/g_4$ under $g_2, g_3, g_5, g_6 = 0$. We found that $\lambda^2$ goes to 0 as $g_4$ goes to $0$, which is different from what we saw before, where $lambda^2$ does not goes to 0 if $g_2$ goes to 0. The relevant data is in the following table.
+In this section, we try to bound $\lambda^2/g_4$ since $\lambda^2/8\pi G$ is unbounded. First, we try to fix $g_2, g_3, g_5, g_6 = 0$, and we got the lower bound for $g_4$ is 0. Next, we could bound $\lambda^2/g_4$ under $g_2, g_3, g_5, g_6 = 0$. We found that $\lambda^2$ goes to 0 as $g_4$ goes to $0$, which is different from what we saw before, where $\lambda^2$ does not goes to 0 if $g_2$ goes to 0. The relevant data is in the following table.
 
 | $g4/8\pi G$ | $lambda^2/8\pi G$ |
 | --- | --- |
@@ -55,4 +55,4 @@ In this section, we try to bound $\lambda^2/g_4$ since $\lambda^2/8\pi G$ is unb
 | 0.01 | 0.00778 |
 | 0.001 | 0.000778 |
 
-However, we also fix another set of $g_2 = 0.2, g_3, g_5, g_6$. We found that the $lambda^2/8\pi G$ grows as $g_6/8\pi G$ grows, so now $\lambda^2/g_4$ is unbounded.
+However, we also fix another set of $g_2 = 0.2, g_3, g_5, g_6$. We found that the $\lambda^2/8\pi G$ grows as $g_6/8\pi G$ grows, so now $\lambda^2/g_4$ is unbounded.
