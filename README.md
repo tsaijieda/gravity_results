@@ -56,3 +56,6 @@ In this section, we try to bound $\lambda^2/g_4$ since $\lambda^2/8\pi G$ is unb
 | 0.001 | 0.000778 |
 
 However, we also fix another set of $g_2 = 0.2, g_3, g_5, g_6$. We found that the $\lambda^2/8\pi G$ grows as $g_6/8\pi G$ grows, so now $\lambda^2/g_4$ is unbounded.
+
+### Bounding $G/\lambda^2$ with $g_2/\lambda^2$
+We could bound $G/\lambda^2$ with $g_2/\lambda^2$ using the mathematica file [G/g2](./gravity_lambda_denominator.m).
